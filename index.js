@@ -24,4 +24,5 @@ function displayMessage(msg) {
   let updateMessage = document.querySelector("#greeting");
   updateMessage.innerText = msg;
 }
+
 handleClick(e)
